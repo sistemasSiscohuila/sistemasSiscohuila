@@ -13,7 +13,7 @@
 
 ### 👋 Sobre Nosotros
 
-En Siscohuila, estamos comprometidos con el objetivo de eliminar las barreras digitales en Huila, ofreciendo servicios de internet confiables y de alta velocidad a hogares, empresas y proyectos rurales. Con más de X años en el mercado, nos hemos convertido en un pilar para el desarrollo tecnológico y la inclusión digital en nuestra región.
+En Siscohuila, estamos comprometidos con el objetivo de eliminar las barreras digitales en Huila, ofreciendo servicios de internet confiables y de alta velocidad a hogares, empresas y proyectos rurales. Con más de 10 años en el mercado, nos hemos convertido en un pilar para el desarrollo tecnológico y la inclusión digital en nuestra región.
 
 ### 👀 Nuestros Intereses
 
@@ -38,7 +38,7 @@ En Siscohuila, estamos comprometidos con el objetivo de eliminar las barreras di
 - 🌍 Visita nuestra página web: [siscohuila.com](https://siscohuila.com/)
 - 📧 Escríbenos a: sistemas@siscohuila.com
 - ☎️ Llámanos al: +57 320 2718132
-<--  - 📱 Síguenos en nuestras redes sociales: [Facebook](#) | [Twitter](#) | [LinkedIn](#) -->
+<--  - 📱 Síguenos en nuestras redes sociales: [Facebook]([#](https://www.facebook.com/siscohuila)) | [Whatsapp]([#](https://api.whatsapp.com/send?phone=573202718132)) -->
 
 ### 😄 Pronombres
 
