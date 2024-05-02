@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Siscohuila - Sistemas Computarizados del Huila 🌐</h1>
+<h1 align="center">🌐 Siscohuila S.A.S - Sistemas Computarizados del Huila 🌐</h1>
 
 <p align="center">
   <a href="https://siscohuila.com/"><img src="https://siscohuila.com/templates/g5_helium/custom/images/siscohuila.png" alt="Siscohuila Logo" width="200"/></a>
@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>¡Bienvenidos al perfil oficial de GitHub de Siscohuila!</strong><br>
-  Somos un Proveedor de Servicios de Internet Inalámbrico dedicado a brindar conexión de alta calidad en el huila Huila, Colombia. 📡💻
+  Somos un Proveedor de Servicios de Internet Inalámbrico dedicado a brindar conexión de alta calidad en el Huila, Colombia. 📡💻
 </p>
 
 ---
@@ -27,7 +27,7 @@ En Siscohuila, estamos comprometidos con el objetivo de eliminar las barreras di
 - 📊 Gestión y análisis de grandes volúmenes de trafico de red para mejorar la calidad del servicio.
 - 🔄 Automatización y optimización de procesos internos.
 
-### 💞️ Buscamos Colaborar en
+### 💞️ Buscamos Colaborar En:
 
 - 🌐 Proyectos de expansión de red en áreas rurales y remotas.
 - 🏢 Iniciativas corporativas que requieran soluciones de conectividad personalizadas.
